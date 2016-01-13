@@ -1,0 +1,3 @@
+[submodule "coco"]
+	path = coco
+	url = https://github.com/pdollar/coco.git
