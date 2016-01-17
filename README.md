@@ -45,4 +45,6 @@ If you find this dataset or code base useful in your research, please consider c
     ```
 
 ### Using the dataset
-An IPython notebook, illustrating how to use the annotations in the dataset is available in ```V-COCO.ipynb```
+1. An IPython notebook, illustrating how to use the annotations in the dataset is available in ```V-COCO.ipynb```
+2. The current release of the dataset includes annotations as indicated in Table 1 in the paper. We are collecting role annotations for the 6 categories (that are missing) and will make them public shortly.
+
